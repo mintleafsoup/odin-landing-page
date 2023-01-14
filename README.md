@@ -14,3 +14,7 @@ Minimalist building section: https://www.pexels.com/photo/white-painted-wall-266
 Mountains in the distance: https://www.pexels.com/photo/landscape-photography-of-a-mountain-4613536/
 Pink flowers in white vase: https://www.pexels.com/photo/pink-flower-in-white-ceramic-vase-10295070/
 
+Placeholder logo: https://placeholder.com/logos/
+
+Landscape with sheep: https://pixabay.com/photos/herd-sheep-field-of-crops-grains-7658724/
+
