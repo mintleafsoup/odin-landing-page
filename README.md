@@ -7,3 +7,10 @@ The landing page is meant to solidify knowledge of the basics of HTML and CSS th
 What I have learned: 
 
 What I struggled with: 
+
+# Image credits: 
+Apples on a plate: https://www.pexels.com/photo/apple-cut-in-half-on-plate-10758999/
+Minimalist building section: https://www.pexels.com/photo/white-painted-wall-2662792/
+Mountains in the distance: https://www.pexels.com/photo/landscape-photography-of-a-mountain-4613536/
+Pink flowers in white vase: https://www.pexels.com/photo/pink-flower-in-white-ceramic-vase-10295070/
+
