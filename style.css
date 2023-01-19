@@ -1,0 +1,16 @@
+header {
+    background-color: #1F2937;
+    color: #F9FAF8;
+    display: flex;
+    justify-content:space-around;
+}
+
+header ul {
+    display: flex;
+    justify-content: space-between;
+    list-style-type: none;
+}
+
+.first-section {
+    background-color: #1F2937;
+}
