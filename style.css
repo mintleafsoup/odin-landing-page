@@ -88,19 +88,29 @@ header li {
     border-color: #3882F6;
 }
 
-
-
-
-
-
+/* Working on the quote section*/
 .quote-section {
     background-color: #E5E7EB;
+    padding-top: 100px;
+    padding-bottom: 100px;
+    padding-left: 300px; 
+    padding-right: 300px;
+    display: flex;
+    flex-direction: column;
 }
 
+.quote-section p {
+    display: flex;
+    align-items: flex-end;
+}
+
+/*Working on the fourth section*/
 .fourth-section {
     background-color: #3882F6;
+    margin: 40px;
 }
 
+/*working on the footer*/
 footer { 
     background-color: #1F2937;
 }
