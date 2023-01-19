@@ -104,12 +104,28 @@ header li {
     align-items: flex-end;
 }
 
-/*Working on the fourth section*/
+/*fourth section is done :)*/
 .fourth-section {
     background-color: #3882F6;
-    margin: 100px;
+    color:#E5E7EB;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-left: 300px;
+    margin-right: 300px;
     padding: 40px;
     border-radius: 10px;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.sign-up-text {
+    display: flex;
+    flex-direction: column;
+}
+
+.fourth-section h3 {
+    font-weight: 800;
+    color: #F9FAF8;
 }
 
 /*button is done :)*/
