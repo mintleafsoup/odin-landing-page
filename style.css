@@ -107,10 +107,19 @@ header li {
 /*Working on the fourth section*/
 .fourth-section {
     background-color: #3882F6;
-    margin: 40px;
+    margin: 100px;
+    padding: 40px;
+    border-radius: 10px;
+}
+
+.fourth-section .sign-up-container {
 }
 
 /*working on the footer*/
 footer { 
     background-color: #1F2937;
+    padding: 50px;
+    display: flex;
+    justify-content: center;
+    color: #F9FAF8;
 }
