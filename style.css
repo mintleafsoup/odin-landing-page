@@ -112,10 +112,18 @@ header li {
     border-radius: 10px;
 }
 
-.fourth-section .sign-up-container {
+/*button is done :)*/
+.button-two {
+    background-color: #3882F6;
+    font-size: 18px;
+    border: 2px solid; 
+    border-radius: 4px;
+    border-color: #F9FAF8;
+    color: #F9FAF8;
+    padding: 10px 30px 10px 30px; 
 }
 
-/*working on the footer*/
+/*footer is done :)*/
 footer { 
     background-color: #1F2937;
     padding: 50px;
