@@ -34,6 +34,12 @@ header li {
 /* Working on the first section*/ 
 .first-section {
     background-color: #1F2937;
+    display: flex;
+    justify-content: space-around;
+    padding: 200px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    /*Is padding like this the best option?*/
 }
 
 .first-section h2 {
@@ -50,6 +56,17 @@ header li {
 .first-section img {
     width: 500px;
 }
+
+/*.container-left {
+    display: flex;
+    flex-direction: column;
+    row-gap: 15px;
+    flex-wrap: wrap;
+}*/
+
+
+
+
 
 
 
