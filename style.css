@@ -64,14 +64,22 @@ header li {
     flex-wrap: wrap;
 }*/
 
-
-
-
-
-
-
+/*working on the second container */
 
 .second-section {
+    padding-left: 200px;
+    padding-right: 200px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.second-section h3 {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 40px;
+}
+
+.second-section .image-container {
     display: flex;
 }
 
@@ -79,6 +87,11 @@ header li {
     width: 200px;
     border-color: #3882F6;
 }
+
+
+
+
+
 
 .quote-section {
     background-color: #E5E7EB;
