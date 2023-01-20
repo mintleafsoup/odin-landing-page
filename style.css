@@ -5,7 +5,7 @@
 
 header {
     background-color: #C4BDAC;
-    color: #F9FAF8;
+    color: #1F2937;
     display: flex;
     justify-content:space-around;
     font-size: 24px;
@@ -21,7 +21,7 @@ header ul {
     display: flex;
     justify-content: space-between;
     list-style-type: none;
-    color: #E5E7EB;
+    color: #1F2937;
     font-size: 18px;
 }
 
@@ -29,9 +29,6 @@ header li {
     margin: 20px;
 }
 
-/* header is done! :)*/
-
-/* first section is done :)*/ 
 .first-section {
     background-color: #C4BDAC;
     display: flex;
@@ -45,11 +42,11 @@ header li {
 .first-section h2 {
     font-weight: 900;
     font-size: 48px;
-    color: #F9FAF8; 
+    color: #2b384b; 
 }
 
 .first-section p {
-    color: #E5E7EB; 
+    color: #33435a; 
     font-size: 18px;
     margin-right: 30px;
     line-height: 30px;
@@ -60,18 +57,16 @@ header li {
 }
 
 .button-one {
-    background-color: #EBCFC4;
+    background-color: #b59e95;
     font-size: 18px;
     border: 2px solid; 
     border-radius: 4px;
-    border-color:#EBCFC4;
-    color: #F9FAF8;
+    border-color:#b59e95;
+    color: #273446d3;
     padding: 10px 30px 10px 30px; 
     margin-top: 10px;
 }
 
-
-/*second section is done!*/
 .second-section {
     padding-left: 200px;
     padding-right: 200px;
@@ -114,7 +109,6 @@ header li {
     border-color: #3882F6;
 }
 
-/* Working on the quote section*/
 .quote-section {
     background-color: #F4EEE1;
     padding-top: 100px;
@@ -142,10 +136,9 @@ header li {
     font-size: 18px;
 }
 
-/*fourth section is done :)*/
 .fourth-section {
     background-color: #D3C4BE;
-    color:#E5E7EB;
+    color:#33435a;
     margin-top: 100px;
     margin-bottom: 100px;
     margin-left: 300px;
@@ -163,25 +156,23 @@ header li {
 
 .fourth-section h3 {
     font-weight: 800;
-    color: #F9FAF8;
+    color: #2b384b;
 }
 
-/*button is done :)*/
 .button-two {
     background-color: #D3C4BE;
     font-size: 18px;
     border: 2px solid; 
     border-radius: 4px;
-    border-color: #F9FAF8;
-    color: #F9FAF8;
+    border-color: #33435a;
+    color: #33435a;
     padding: 10px 30px 10px 30px; 
 }
 
-/*footer is done :)*/
 footer { 
     background-color: #C4BDAC;
     padding: 50px;
     display: flex;
     justify-content: center;
-    color: #F9FAF8;
+    color: #2b384b;
 }
