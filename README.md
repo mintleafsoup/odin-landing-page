@@ -5,6 +5,7 @@ This is my langing page for the Odin Project.
 The landing page is meant to solidify knowledge of the basics of HTML and CSS that have been taught in the lessons. 
 
 # What I have learned: 
+I really like styling the page. I notice that, when stuck, I need to calmly go over what I'm doing while explaining what I'm doing to myself. Then I usually find my solution. 
 
 # What I struggled with: 
 Space-between didn't work on the links in the header, even though it felt like it should have? Solution: I was targeting the ul not the individual li. :) 
