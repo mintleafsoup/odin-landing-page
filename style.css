@@ -4,7 +4,7 @@
 }
 
 header {
-    background-color: #1F2937;
+    background-color: #8e7d4a;
     color: #F9FAF8;
     display: flex;
     justify-content:space-around;
@@ -33,7 +33,7 @@ header li {
 
 /* first section is done :)*/ 
 .first-section {
-    background-color: #1F2937;
+    background-color: #8e7c44;
     display: flex;
     justify-content: space-around;
     padding: 200px;
@@ -60,11 +60,11 @@ header li {
 }
 
 .button-one {
-    background-color: #3882F6;
+    background-color: #8e5b4a;
     font-size: 18px;
     border: 2px solid; 
     border-radius: 4px;
-    border-color:#3882F6;
+    border-color:#8e5b4a;
     color: #F9FAF8;
     padding: 10px 30px 10px 30px; 
     margin-top: 10px;
@@ -144,7 +144,7 @@ header li {
 
 /*fourth section is done :)*/
 .fourth-section {
-    background-color: #3882F6;
+    background-color: #8e5b4a;
     color:#E5E7EB;
     margin-top: 100px;
     margin-bottom: 100px;
@@ -168,7 +168,7 @@ header li {
 
 /*button is done :)*/
 .button-two {
-    background-color: #3882F6;
+    background-color: #8e5b4a;
     font-size: 18px;
     border: 2px solid; 
     border-radius: 4px;
@@ -179,7 +179,7 @@ header li {
 
 /*footer is done :)*/
 footer { 
-    background-color: #1F2937;
+    background-color: #8e7c44;
     padding: 50px;
     display: flex;
     justify-content: center;
