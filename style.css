@@ -70,12 +70,6 @@ header li {
     margin-top: 10px;
 }
 
-/*.container-left {
-    display: flex;
-    flex-direction: column;
-    row-gap: 15px;
-    flex-wrap: wrap;
-}*/
 
 /*working on the second container */
 .second-section {
@@ -86,13 +80,33 @@ header li {
 }
 
 .second-section h3 {
-    display: flex;
-    justify-content: center;
+    text-align: center;
     margin-bottom: 40px;
+    font-size: 36px;
+    font-weight: 900;
+    color: #1F2937;
+
 }
 
-.second-section .image-container {
+.image-container {
     display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+}
+.images {
+    display: flex;
+    flex-direction: column;
+    padding: 0px;
+}
+
+.images img {
+    display: flex;
+    align-self: center;
+}
+
+.images figcaption {
+    text-align: center;
+    padding-top: 5px;
 }
 
 .second-section img {
